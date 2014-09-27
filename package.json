@@ -1,0 +1,42 @@
+{
+  "name": "soundcloud-waveform",
+  "version": "1.0.0",
+  "description": "Get the waveform data for a given SoundCloud track URL as an array",
+  "main": "index.js",
+  "browser": "browser.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {
+    "querystring": "^0.2.0",
+    "remove-element": "0.0.0",
+    "request": "^2.44.0",
+    "soundcloud-resolve": "^1.0.1",
+    "url": "^0.10.1"
+  },
+  "devDependencies": {
+    "tape": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/soundcloud-waveform.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "api",
+    "track",
+    "audio",
+    "wave",
+    "waveform",
+    "music",
+    "data"
+  ],
+  "homepage": "https://github.com/hughsk/soundcloud-waveform",
+  "bugs": {
+    "url": "https://github.com/hughsk/soundcloud-waveform/issues"
+  }
+}
